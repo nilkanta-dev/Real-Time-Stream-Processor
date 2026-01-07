@@ -122,5 +122,5 @@ This project emphasizes **engineering fundamentals** over frameworks and demonst
 
 
 #### Author
-*Nilkanta Rabha*
+*Nilkanta Rabha*<br>
 *Full-Stack Python Developer*
